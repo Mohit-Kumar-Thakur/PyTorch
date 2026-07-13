@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/github/license/your-username/PyTorch-Learning?style=for-the-badge"/>
 </p>
 
 </div>
@@ -74,7 +73,7 @@ Every notebook represents a concept that has been explored, implemented, and und
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Kumar-Thakur&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -82,7 +81,7 @@ Every notebook represents a concept that has been explored, implemented, and und
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit-Kumar-Thakur&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -92,7 +91,7 @@ Every notebook represents a concept that has been explored, implemented, and und
 
 ### 🔥 Visitor Count
 
-<img src="https://komarev.com/ghpvc/?username=your-username&label=Repository+Visitors&color=EE4C2C&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Mohit-Kumar-Thakur&label=Repository+Visitors&color=EE4C2C&style=for-the-badge"/>
 
 </div>
 
